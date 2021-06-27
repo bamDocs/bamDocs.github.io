@@ -2,7 +2,7 @@
 layout: page
 title: About Me
 description: I write the docs
-background: '/img/bg-about.jpg'
+background: /img/about.jpg
 ---
 
 ### Hi! I'm Brett A. Mobley.
