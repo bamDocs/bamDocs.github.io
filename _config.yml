@@ -1,5 +1,5 @@
-title:              BAM!Docs
-email:              brett.mobley@gmail.com
+title:              BAM! Docs
+email:              
 description:        technical writing in the wild
 author:             bamDocs
 baseurl:            ""
@@ -9,7 +9,7 @@ url:                "https://bamDocs.github.io"
 twitter_username:
 github_username:    bamDocs
 facebook_username:
-instagram_username: brettamobley
+instagram_username:
 linkedin_username:  brettamobley
 
 # Add your google-analytics ID here to activate google analytics
